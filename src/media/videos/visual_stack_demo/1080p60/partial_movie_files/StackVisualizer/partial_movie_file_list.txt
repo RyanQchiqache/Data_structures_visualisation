@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3529212410_634423853_586640697.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_4242227298_3068695186.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_2448494320_274719334.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_149343706_1686956826.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_229896448_1082982554.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_2395852568_1939609493.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_2046895738_1274793928.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_229896448_2591432576.mp4'
+file 'file:/Users/ryanqchiqache/PycharmProjects/Data_structures_visualisation/media/videos/visual_stack_demo/1080p60/partial_movie_files/StackVisualizer/3040924799_3899349639_2462627444.mp4'
